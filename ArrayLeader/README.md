@@ -14,6 +14,7 @@ int[]: array of integers leaders
 
 
 Class: SolutionTest -> mvn test
+
 Unit test for:
 - Testing getting leader of arrays
 - Testing throwing exceptions because use invalid arguments in Solution function
