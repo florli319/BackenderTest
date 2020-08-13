@@ -2,15 +2,16 @@
 Program to find all the numbers that may become a leader after performing exactly one array modification
 
 Class: Solution
+
 Function: solution
 
 Input:
-A[]: array N integers
-K: Segment length
-M: Max value allowed for array elements
+- A[]: array N integers
+- K: Segment length
+- M: Max value allowed for array elements
 
 Ouput:
-int[]: array of integers leaders
+- int[]: array of integers leaders
 
 
 Class: SolutionTest -> mvn test
